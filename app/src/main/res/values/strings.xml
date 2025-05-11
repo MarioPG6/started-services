@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PaseosApp</string>
+    <string name="question">Reservar Paseo</string>
+    <string name="response">Tu solicitud de paseo fue enviada correctamente.</string>
+    <string name="notification_reserva_titulo">Nueva Reserva de Paseo</string>
+    <string name="notification_reserva_mensaje">Has recibido una nueva solicitud para pasear a Max.</string>
+    <string name="notification_completado_titulo">Paseo Completado</string>
+    <string name="notification_completado_mensaje">El paseo de Max ha sido completado con éxito.</string>
+</resources>
